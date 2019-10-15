@@ -1,0 +1,17 @@
+{
+  "name": "lxj-node",
+  "version": "0.0.5",
+  "description": "lxj-node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lixiongjie",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "lodash": "^4.0.0"
+  }
+}
